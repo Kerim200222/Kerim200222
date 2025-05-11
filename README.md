@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Abdulkarim</h1>
 <h3 align="center">Student at Firat University - Software Engineering</h3>
 
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kerim200222&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kerim200222&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
 - 🌐 I’m currently focusing on **Backend Web Development**
 - 🤖 Long-term goal: **Mastering Artificial Intelligence**
 - 📫 How to reach me: abooayman20022@gmail.com
@@ -16,14 +24,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github" />
-</p>
-
----
-
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kerim200222&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kerim200222&layout=compact&theme=tokyonight" />
 </p>
 
 ---
