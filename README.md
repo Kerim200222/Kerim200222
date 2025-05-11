@@ -7,12 +7,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kerim200222&layout=compact&theme=tokyonight" />
 </p>
 
----
-
 - 🌐 I’m currently focusing on **Backend Web Development**
 - 🤖 Long-term goal: **Mastering Artificial Intelligence**
 - 📫 How to reach me: abooayman20022@gmail.com
-- 🎥 Subscribe to my YouTube channel for projects and tutorials!
 
 ---
 
