@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdulkarim</h1>
 <h3 align="center">Student at Firat University - Software Engineering</h3>
 
-### 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kerim200222&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kerim200222&layout=compact&theme=tokyonight" />
