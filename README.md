@@ -3,7 +3,7 @@
 
 - 🌐 I’m currently focusing on **Backend Web Development**
 - 🤖 Long-term goal: **Mastering Artificial Intelligence**
-- 📫 How to reach me: abdulkarimhajamin@gmail.com
+- 📫 How to reach me: abooayman20022@gmail.com
 - 🎥 Subscribe to my YouTube channel for projects and tutorials!
 
 ---
