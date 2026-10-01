@@ -22,7 +22,7 @@
 <br />
 
 I'm a passionate **Full-Stack Developer** and a 4th-year Software Engineering student.  
-Coding with curiosity since 2020, currently completing my engineering internship, and building robust, scalable web applications with **React**, **.NET**, **SQL**, and **Supabase**.
+Coding with curiosity since 2020, currently working as a software intern at **Turunçgil Teknoloji**, and building robust, scalable web applications with **React**, **.NET**, **SQL**, and **Supabase**.
 
 </div>
 
@@ -69,7 +69,7 @@ Coding with curiosity since 2020, currently completing my engineering internship
 ### 👨‍💻 About Me
 
 - 🎓 **Education:** 4th-year Software Engineering Student (*Yazılım Mühendisliği 4. Sınıf*)
-- 💼 **Internship:** Currently completing my 70-day software internship (previously completed 40 days)
+- 💼 **Internship:** Software Engineering Intern at **Turunçgil Teknoloji** (currently completing my 70-day internship)
 - 🚀 **Focus:** Building modern full-stack web applications with responsive UIs and secure backends
 - 💻 **Core Stack:** **React**, **JavaScript**, **.NET (C#)**, **SQL**, and **Supabase**
 - 🌟 **Journey:** Exploring and writing code continuously since 2020
