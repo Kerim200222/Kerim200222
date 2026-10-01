@@ -10,7 +10,7 @@
 
 <br />
 
-[![Location](https://img.shields.io/badge/Location-Elazığ%20%2F%20Mersin-8B5CF6?style=flat-square&labelColor=0B1120&logo=googlemaps&logoColor=22D3EE)](#)
+[![Location](https://img.shields.io/badge/Location-Turkey-8B5CF6?style=flat-square&labelColor=0B1120&logo=googlemaps&logoColor=22D3EE)](#)
 [![Views](https://komarev.com/ghpvc/?username=Kerim200222&style=flat-square&color=06B6D4&labelColor=0B1120&label=Profile+Views)](https://github.com/Kerim200222)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdulkarim-8B5CF6?style=flat-square&labelColor=0B1120&logo=linkedin&logoColor=22D3EE)](https://www.linkedin.com/in/abdulkarim-haj-amin-656a7b294/)
 [![Instagram](https://img.shields.io/badge/Instagram-kerim.aminx-06B6D4?style=flat-square&labelColor=0B1120&logo=instagram&logoColor=22D3EE)](https://www.instagram.com/kerim.aminx/)
