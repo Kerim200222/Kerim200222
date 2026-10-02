@@ -38,14 +38,23 @@ Coding with curiosity since 2020, currently working as a software intern at **Tu
 
 ---
 
-<!-- GitHub Stats & Top Languages -->
-<div align="center">
-  <h3>📊 GitHub Stats & Highlights</h3>
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=Kerim200222&show_icons=true&locale=en&bg_color=0B1120&title_color=8B5CF6&text_color=F8FAFC&icon_color=22D3EE&border_color=8B5CF6&border_radius=10" alt="Kerim's GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kerim200222&layout=compact&bg_color=0B1120&title_color=8B5CF6&text_color=F8FAFC&border_color=8B5CF6&border_radius=10" alt="Top Languages" />
-</div>
+## 📊 GitHub Stats:
+<table>
+  <tr>
+    <td width="50%" valign="top">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kerim200222&theme=dark&hide_border=false&ring_color=87CEEB&title_color=4B9CD3&text_color=87CEEB&include_all_commits=false&count_private=false"
+             width="100%" style="display:block; margin:0;" alt="GitHub Stats"/>
+      <br/>
+ <img width="100%" height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=Kerim200222&theme=dark&hide_border=true&background=0D1117&stroke=0000&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" style="display:block; margin:0;"/>
+      <br/>
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kerim200222&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
+             width="100%" style="display:block; margin:0;" alt="Top Languages"/>
+    </td>
+    <td width="50%" valign="center">
+      <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="100%" alt="Programming GIF" />
+    </td>
+  </tr>
+</table>
 
 <br />
 
@@ -61,6 +70,34 @@ Coding with curiosity since 2020, currently working as a software intern at **Tu
     <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Kerim200222/Kerim200222/main/dist/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
+
+<br />
+
+---
+
+## 📈 Profile Summary
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kerim200222&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kerim200222&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kerim200222&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kerim200222&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kerim200222&theme=tokyonight"/>
+
+</p>
 
 <br />
 
