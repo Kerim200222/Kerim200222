@@ -32,6 +32,8 @@ Coding with curiosity since 2020, currently working as a software intern at **Tu
 <div align="center">
   <h3>🛠️ Tech Stack & Tools</h3>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,dotnet,cs,supabase,postgres,mysql,git,github,vscode,postman&theme=dark" alt="Tech stack" />
+  <br /><br />
+  <img src="https://img.shields.io/badge/Google_Antigravity-Agentic_AI-8B5CF6?style=for-the-badge&logo=google&logoColor=white" alt="Google Antigravity" />
 </div>
 
 <br />
