@@ -115,10 +115,28 @@ Coding with curiosity since 2020, currently working as a software intern at **Tu
 
 ---
 
-### 🚀 Featured Project
+### 🚀 Featured Projects
+
+#### 🏢 Enterprise & Open-Source Systems (Developed at Turunçgil Teknoloji)
+
+- ⚡ [**SheetGL**](https://github.com/umitunc/sheetgl) — *Ultra-Fast Excel-Grade WebGL & Canvas DataGrid for React*  
+  **Role:** Software Engineering Intern (*Stajyer*) & Core Contributor  
+  - Contributed to enterprise data-grid architecture featuring GPU/Canvas zero-DOM virtualization for 100k+ rows at 60 FPS.
+  - Developed and implemented core features including `GridApi` contracts, `useGridSelection` hooks, and dynamic column state synchronization.  
+  🔗 [Live Demo](https://sheetgl.truncgil.com/demo) • [NPM Package](https://www.npmjs.com/package/sheetgl) • [My Fork](https://github.com/Kerim200222/sheetgl)
+
+- 🎨 [**uxiGL**](https://github.com/umitunc/uxigl) — *Modular Liquid Glass & Dynamic Tonal Design System*  
+  **Role:** Software Engineering Intern (*Stajyer*) & Contributor  
+  - Contributed to enterprise dashboard architectures, settings and preferences page templates, and design token integration.
+  - Worked on modular React UI components integrated with WebGL virtual file systems and dynamic theme engines.  
+  🔗 [GitHub Repository](https://github.com/umitunc/uxigl) • [My Fork](https://github.com/Kerim200222/uxigl)
+
+---
+
+#### 📱 Independent Full-Stack Projects
 
 - 📱 [**Phone Store Management System**](https://github.com/Kerim200222/phone-store-management-system)  
-  *Full-stack application for managing phone store sales, inventory, and operations.*
+  *Full-stack application for managing phone store sales, inventory, and operations with Next.js, React, and Supabase.*
 
 ---
 
